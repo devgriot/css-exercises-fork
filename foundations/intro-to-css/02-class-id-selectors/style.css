@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.first,
+.third,
+.fifth {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: hsl(0, 100%, 85%);
+}
+
+#second {
+  color: rgb(0, 0, 230);
+  font-size: 36px;
+}
+
+.third, #fourth {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: #90ee90;
+  font-weight: bold;
+}
